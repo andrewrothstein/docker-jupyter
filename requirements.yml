@@ -1,0 +1,6 @@
+---
+- src: andrewrothstein.pkg-upgrade
+- src: andrewrothstein.supervisord
+  version: v1.0.13
+- src: andrewrothstein.jupyter-supervisord
+  version: v4.0.0
