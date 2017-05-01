@@ -1,4 +1,4 @@
-docker-jupyter
+andrewrothstein/docker-jupyter
 ===============
 [![Build Status](https://travis-ci.org/andrewrothstein/docker-jupyter.svg?branch=master)](https://travis-ci.org/andrewrothstein/docker-jupyter)
 
